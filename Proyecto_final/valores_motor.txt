@@ -1,0 +1,1 @@
+vel:1900;freq:61;vol:220;t:67;tiempo:3h

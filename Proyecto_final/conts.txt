@@ -1,0 +1,5 @@
+Velocidad:
+Frecuencia: 
+Voltaje:
+Temperatura:
+tiempo de operacion:

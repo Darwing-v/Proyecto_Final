@@ -1,0 +1,1 @@
+vel: 1800rpm 5%;freq: 60Hz 5%;volt: 220v 10%;temp: 60°c 5%
